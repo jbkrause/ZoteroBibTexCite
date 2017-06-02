@@ -17,7 +17,7 @@ You may locate the translator folder on you system in Firefox via the "Trooblesh
 
 ![Firefox Troubleshooting Information](TroubleshootingInformation.png)
 
-Open the "Help" menu (on some platforms you have to press <Alt> to make it appear), then select "Troobleshooting Information". Within the troubleshooting page click on the "Open" button near "Profile Directory", then browse to the folder Zotero / tranlators . Here you are.
+Open the "Help" menu (on some platforms you have to press `<Alt>` to make it appear), then select "Troobleshooting Information". Within the troubleshooting page click on the "Open" button near "Profile Directory", then browse to the folder Zotero / tranlators . Here you are.
 
 ## Usage
 
