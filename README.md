@@ -3,7 +3,7 @@
 Author: Jan Krause   
 Publication date: 2017-06-02   
 License: [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)   
-Source: This translator in a modification of the BibTeX translator written by Simon Kornblith and Richard Karnesky and distributed with [Zotero](http://zotero.org).   
+Source: This translator is a modification of the BibTeX translator written by Simon Kornblith and Richard Karnesky and distributed with [Zotero](http://zotero.org).   
 
 ## About
 
